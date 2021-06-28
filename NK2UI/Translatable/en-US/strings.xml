@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="general.back">Back</string>
+    <string name="general.cancel">Cancel</string>
+    <string name="general.confirm">Are you sure?</string>
+    <string name="general.destroy">Delete</string>
+    <string name="general.edit">Edit</string>
+    <string name="general.new">New</string>
+    <string name="hello">Hello world</string>
+    <string name="layouts.application.about">About</string>
+    <string name="layouts.application.account">Account</string>
+    <string name="layouts.application.app_store">App Store</string>
+    <string name="layouts.application.imprint">Imprint</string>
+    <string name="layouts.application.logout">Logout</string>
+    <string name="layouts.application.my_mails">My Mails</string>
+    <string name="layouts.application.press">Press</string>
+    <string name="layouts.application.preview">Preview</string>
+    <string name="layouts.application.profile">Profile</string>
+    <string name="layouts.application.sign_in">Login</string>
+    <string name="layouts.application.sign_up">Register</string>
+</resources>
