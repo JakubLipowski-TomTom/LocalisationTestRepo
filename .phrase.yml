@@ -1,0 +1,35 @@
+phrase:
+  access_token: 3e9d52c13262154eebc1cec7684aeb7df232c7d7aa7f0f526a36a84912536b69
+  project_id: 481ae3334f670beb896606c25ceb384d
+  push:
+    sources:
+    - file: ./Translatable/en-US/strings.xml
+      params:
+        file_format: xml
+        locale_id: 3bb111a85afc47bb7637d76073440ae1
+  pull:
+    targets:
+    - file: ./Translatable/ar-MA/strings.xml
+      params:
+        file_format: xml
+        locale_id: 5da47883884e5fcd814435f39cbf4ba0
+    - file: ./Translatable/de-DE/strings.xml
+        params:
+          file_format: xml
+          locale_id: 23be5e74498b507d5d2b286850e1df12
+    - file: ./Translatable/fr-FR/strings.xml
+        params:
+          file_format: xml
+          locale_id: 47c21d655944026d4e0a7fca346ad1fd
+    - file: ./Translatable/kpe-GN/strings.xml
+        params:
+          file_format: xml
+          locale_id: 9da96e723359e50ef2f6116883caf5c8
+    - file: ./Translatable/th-TH/strings.xml
+        params:
+          file_format: xml
+          locale_id: 314f0e6cdcb33d506427ebc73f0abda6
+    - file: ./Translatable/ur-PK/strings.xml
+        params:
+          file_format: xml
+          locale_id: 3a5fb5df7936464d60186f7c68bb3472
