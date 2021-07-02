@@ -20,4 +20,11 @@
     <string name="layouts.application.sign_up">Register</string>
     <string name="layouts.application.sign_up23">Register23222</string>
     <string name="layouts.application.sign_up" needsTranslation="false">Registerhjghjg</string>
+
+    <string
+        name="jakies_cos"
+        needsTranslation="true"
+        translationTicket="none"
+        specId="SPEC_ID"
+        description="is shown as title for search panel">Title</string>
 </resources>
