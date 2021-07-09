@@ -27,4 +27,11 @@
         translationTicket="none"
         specId="SPEC_ID"
         description="is shown as title for search panel">Title</string>
+    
+    <string
+        name="custom_string"
+        needsTranslation="true"
+        translationTicket="none"
+        specId="SPEC_ID"
+        description="is shown as title for search panel">Title</string>
 </resources>
