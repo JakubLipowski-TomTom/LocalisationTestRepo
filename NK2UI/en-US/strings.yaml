@@ -17,7 +17,7 @@ example2_string_id:
   translationTicket: none
   
 example3_string_id:
-  text: Marked location
+  text: Marketed location
   description: When a user did a long press on the map we mark the location with a pin, if the location is unnamed or not able to give us a name we show this label
   needsTranslation: true
   translationTicket: none
