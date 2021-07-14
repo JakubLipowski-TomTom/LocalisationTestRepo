@@ -32,3 +32,10 @@ example4_string_id:
   needsTranslation: true
   translationTicket: none
   tableId: FL_222_444
+  
+example5_string_id:
+  text: Unfortunately we're not able to navigate you towards this location
+  description: Fallback label when there's no route to the marked location
+  needsTranslation: true
+  translationTicket: none
+  tableId: FL_222_444
