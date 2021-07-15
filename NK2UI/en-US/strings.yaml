@@ -1,6 +1,8 @@
+#example 
+
 example1_string_id:
-  text: Drive
-  description: Button to start the navigation towards this location
+  text: XXXXX
+  description: XXXXX
   needsTranslation: true
   translationTicket: none
-  tableId: FL_222_444
+  tableId: XX_XXXX_XXXX
