@@ -1,34 +1,6 @@
-example:
-  text: hjkhkjh
-  description: jkgjhkgfhjkg
-  needsTranslation: true
-  translationTicket: none
-  tableId: FL_222_444
-  
 example1_string_id:
   text: Drive
   description: Button to start the navigation towards this location
-  needsTranslation: true
-  translationTicket: none
-  tableId: FL_222_444
-  
-example2_string_id:
-  text: Unknown location
-  description: When (for some reason) we can't find the name of a certain location
-  needsTranslation: true
-  translationTicket: none
-  tableId: FL_222_444
-  
-example3_string_id:
-  text: Marketed location
-  description: When a user did a long press on the map we mark the location with a pin, if the location is unnamed or not able to give us a name we show this label
-  needsTranslation: true
-  translationTicket: none
-  tableId: FL_222_444
-  
-example4_string_id:
-  text: Unfortunately we're not able to navigate you towards this location
-  description: Fallback label when there's no route to the marked location
   needsTranslation: true
   translationTicket: none
   tableId: FL_222_444
