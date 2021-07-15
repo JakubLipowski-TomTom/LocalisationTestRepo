@@ -15,13 +15,13 @@ nk2ui_location_preview_drive_button:
   needsTranslation: true
   translationTicket: none
 
-nk2ui_location_preview_location_decline_fallback_lable :
+nk2ui_location_preview_location_decline_fallback_lable:
   text: "Unfortunately we're not able to navigate you towards this location"
   description: "Fallback label when there's no route to the marked location"
   needsTranslation: true
   translationTicket: none
   
-  nk2ui_location_preview_location_unknown_location_fallback_message :
+  nk2ui_location_preview_location_unknown_location_fallback_message:
   text: "Unknown location"
   description: "When (for some reason) we can't find the name of a certain location"
   needsTranslation: true
