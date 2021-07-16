@@ -26,3 +26,5 @@ nk2ui_location_preview_location_decline_fallback_lable:
   description: "When (for some reason) we can't find the name of a certain location"
   needsTranslation: true
   translationTicket: non
+
+Test 1 
