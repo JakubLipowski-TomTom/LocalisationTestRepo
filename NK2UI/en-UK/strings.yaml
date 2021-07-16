@@ -1,28 +1,22 @@
 #example 
 
-example1_string_id:
-  text: XXXXX
-  description: XXXXX
+#String id used to identify the string and used in codebases
+nk2ui_name_type:
+  #Used to give context for the string for the translators (needs to be writen in "")
+  description: 
+  #string text proposal (writen in "").
+  stringProposal: ""
+  #Used to mark the string as appropriate for translation rounds
   needsTranslation: true
+  #Used to link the string with the translation ticket it was translated in
+  #flag the string not to be taken for another translation round while waiting for the previous round to finish
   translationTicket: none
-  tableId: XX_XXXX_XXXX
+  
 
 # Preview panel
 
-nk2ui_location_preview_drive_button:
-  text: "Drive"
+nk2ui_drive_button:
   description: "Button to start the navigation towards this location"
+  stringProposal: "Drive"
   needsTranslation: true
   translationTicket: none
-
-nk2ui_location_preview_location_decline_fallback_lable:
-  text: "Unfortunately we're not able to navigate you towards this location"
-  description: "Fallback label when there's no route to the marked location"
-  needsTranslation: true
-  translationTicket: none
-  
-  nk2ui_location_preview_location_unknown_location_fallback_message:
-  text: "Unknown location"
-  description: "When (for some reason) we can't find the name of a certain location"
-  needsTranslation: true
-  translationTicket: non
