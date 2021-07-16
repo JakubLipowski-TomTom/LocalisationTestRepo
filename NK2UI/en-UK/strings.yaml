@@ -35,6 +35,6 @@ nk2ui_unknown_location_title:
   
  nk2ui_navigation_not_possible_fallback_lable:
   description: "Fallback label when there's no route to the marked location"
-  stringProposal: "Navigation towards chosen direction is not possible. "
+  stringProposal: "Unfortunately we're not able to navigate you towards this location."
   needsTranslation: true
   translationTicket: none
