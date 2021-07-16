@@ -20,3 +20,21 @@ nk2ui_drive_button:
   stringProposal: "Drive"
   needsTranslation: true
   translationTicket: none
+  
+  nk2ui_unknown_location_title:
+  description: "When (for some reason) we can't find the name of a certain location"
+  stringProposal: "Unknown location"
+  needsTranslation: true
+  translationTicket: none
+
+nk2ui_marked_location_title:
+  description: "When a user did a long press on the map we mark the location with a pin, if the location is unnamed or not able to give us a name we show this label"
+  stringProposal: "Marked location"
+  needsTranslation: true
+  translationTicket: none
+  
+  nk2ui_navigation_not_possible_fallback_lable:
+  description: "Fallback label when there's no route to the marked location"
+  stringProposal: "Navigation towards chosen direction is not possible."
+  needsTranslation: true
+  translationTicket: none
